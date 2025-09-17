@@ -12,7 +12,7 @@
 - 💻 Passionate about **Mobile Development (Flutter & Dart)**  
 - 🌱 Currently learning **.NET & Backend Development**  
 - 🚀 Love to build mobile applications and explore new technologies  
-- 📫 Reach me at: **your-email@example.com**  
+- 📫 Reach me at: **nadralssyd@gmail.com**  
 
 ---
 
@@ -41,11 +41,5 @@
 
 ---
 
-<p align="center"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/Nader-Elsayed-Hassan/count.svg" />
-</p>
-
----
 
 <p align="center">✨ Thanks for visiting my profile, see you next time! ✨</p>
