@@ -32,12 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Nader-Elsayed-Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nader-Elsayed-Hassan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nader-Elsayed-Hassan&layout=compact&theme=radical)
-
----
 
 ### 🎯 Future Goals
 - 📱 Contribute to open-source Flutter projects  
